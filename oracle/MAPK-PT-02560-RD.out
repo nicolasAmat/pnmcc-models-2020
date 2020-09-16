@@ -1,0 +1,2 @@
+./runatest.sh MAPK-PT-02560 ReachabilityDeadlock
+FORMULA MAPK-PT-02560-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

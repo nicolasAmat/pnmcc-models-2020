@@ -1,0 +1,2 @@
+./runatest.sh HospitalTriage-PT-none StableMarking
+FORMULA HospitalTriage-PT-none-StableMarking-00 TRUE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh QuasiCertifProtocol-COL-32 QuasiLiveness
+FORMULA QuasiCertifProtocol-COL-32-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

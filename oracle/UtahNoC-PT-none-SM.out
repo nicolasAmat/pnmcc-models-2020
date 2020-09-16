@@ -1,0 +1,2 @@
+./runatest.sh UtahNoC-PT-none StableMarking
+FORMULA UtahNoC-PT-none-StableMarking-00 FALSE TECHNIQUES ORACLE2020

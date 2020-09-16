@@ -1,0 +1,2 @@
+./runatest.sh DrinkVendingMachine-COL-16 QuasiLiveness
+FORMULA DrinkVendingMachine-COL-16-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

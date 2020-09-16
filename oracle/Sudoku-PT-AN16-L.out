@@ -1,0 +1,2 @@
+./runatest.sh Sudoku-PT-AN16 Liveness
+FORMULA Sudoku-PT-AN16-Liveness-00 FALSE TECHNIQUES ORACLE2020

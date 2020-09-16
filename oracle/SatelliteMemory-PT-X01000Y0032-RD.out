@@ -1,0 +1,2 @@
+./runatest.sh SatelliteMemory-PT-X01000Y0032 ReachabilityDeadlock
+FORMULA SatelliteMemory-PT-X01000Y0032-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

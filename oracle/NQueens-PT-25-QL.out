@@ -1,0 +1,2 @@
+./runatest.sh NQueens-PT-25 QuasiLiveness
+FORMULA NQueens-PT-25-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

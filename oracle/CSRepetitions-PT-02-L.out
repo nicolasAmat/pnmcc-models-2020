@@ -1,0 +1,2 @@
+./runatest.sh CSRepetitions-PT-02 Liveness
+FORMULA CSRepetitions-PT-02-Liveness-00 FALSE TECHNIQUES ORACLE2020

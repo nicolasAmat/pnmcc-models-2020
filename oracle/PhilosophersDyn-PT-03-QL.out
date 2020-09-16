@@ -1,0 +1,2 @@
+./runatest.sh PhilosophersDyn-PT-03 QuasiLiveness
+FORMULA PhilosophersDyn-PT-03-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

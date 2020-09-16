@@ -1,0 +1,2 @@
+./runatest.sh HypercubeGrid-PT-C4K3P3B12 QuasiLiveness
+FORMULA HypercubeGrid-PT-C4K3P3B12-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

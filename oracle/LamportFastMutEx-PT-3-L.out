@@ -1,0 +1,2 @@
+./runatest.sh LamportFastMutEx-PT-3 Liveness
+FORMULA LamportFastMutEx-PT-3-Liveness-00 FALSE TECHNIQUES ORACLE2020

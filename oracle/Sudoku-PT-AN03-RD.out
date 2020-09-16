@@ -1,0 +1,2 @@
+./runatest.sh Sudoku-PT-AN03 ReachabilityDeadlock
+FORMULA Sudoku-PT-AN03-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

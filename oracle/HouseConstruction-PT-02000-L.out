@@ -1,0 +1,2 @@
+./runatest.sh HouseConstruction-PT-02000 Liveness
+FORMULA HouseConstruction-PT-02000-Liveness-00 FALSE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh Philosophers-PT-000200 OneSafe
+FORMULA Philosophers-PT-000200-OneSafe-00 TRUE TECHNIQUES ORACLE2020

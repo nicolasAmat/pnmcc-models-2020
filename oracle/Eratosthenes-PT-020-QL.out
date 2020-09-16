@@ -1,0 +1,2 @@
+./runatest.sh Eratosthenes-PT-020 QuasiLiveness
+FORMULA Eratosthenes-PT-020-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

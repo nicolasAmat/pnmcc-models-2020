@@ -1,0 +1,2 @@
+./runatest.sh ParamProductionCell-PT-3 ReachabilityDeadlock
+FORMULA ParamProductionCell-PT-3-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

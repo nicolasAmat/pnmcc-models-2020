@@ -1,0 +1,2 @@
+./runatest.sh SquareGrid-PT-040204 Liveness
+FORMULA SquareGrid-PT-040204-Liveness-00 FALSE TECHNIQUES ORACLE2020

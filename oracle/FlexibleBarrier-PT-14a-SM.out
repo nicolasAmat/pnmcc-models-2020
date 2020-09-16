@@ -1,0 +1,2 @@
+./runatest.sh FlexibleBarrier-PT-14a StableMarking
+FORMULA FlexibleBarrier-PT-14a-StableMarking-00 FALSE TECHNIQUES ORACLE2020

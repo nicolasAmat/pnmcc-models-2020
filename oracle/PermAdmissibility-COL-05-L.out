@@ -1,0 +1,2 @@
+./runatest.sh PermAdmissibility-COL-05 Liveness
+FORMULA PermAdmissibility-COL-05-Liveness-00 FALSE TECHNIQUES ORACLE2020

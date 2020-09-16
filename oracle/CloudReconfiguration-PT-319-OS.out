@@ -1,0 +1,2 @@
+./runatest.sh CloudReconfiguration-PT-319 OneSafe
+FORMULA CloudReconfiguration-PT-319-OneSafe-00 TRUE TECHNIQUES ORACLE2020

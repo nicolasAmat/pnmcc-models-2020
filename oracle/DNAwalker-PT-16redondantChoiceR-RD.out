@@ -1,0 +1,2 @@
+./runatest.sh DNAwalker-PT-16redondantChoiceR ReachabilityDeadlock
+FORMULA DNAwalker-PT-16redondantChoiceR-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

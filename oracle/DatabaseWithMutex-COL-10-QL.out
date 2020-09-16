@@ -1,0 +1,2 @@
+./runatest.sh DatabaseWithMutex-COL-10 QuasiLiveness
+FORMULA DatabaseWithMutex-COL-10-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

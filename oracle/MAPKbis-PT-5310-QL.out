@@ -1,0 +1,2 @@
+./runatest.sh MAPKbis-PT-5310 QuasiLiveness
+FORMULA MAPKbis-PT-5310-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

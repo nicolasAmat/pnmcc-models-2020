@@ -1,0 +1,2 @@
+./runatest.sh BusinessProcesses-PT-11 Liveness
+FORMULA BusinessProcesses-PT-11-Liveness-00 FALSE TECHNIQUES ORACLE2020

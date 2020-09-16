@@ -1,0 +1,2 @@
+./runatest.sh Dekker-PT-050 ReachabilityDeadlock
+FORMULA Dekker-PT-050-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

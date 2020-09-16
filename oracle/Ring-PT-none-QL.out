@@ -1,0 +1,2 @@
+./runatest.sh Ring-PT-none QuasiLiveness
+FORMULA Ring-PT-none-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

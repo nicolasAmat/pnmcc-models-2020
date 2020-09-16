@@ -1,0 +1,2 @@
+./runatest.sh MultiwaySync-PT-none Liveness
+FORMULA MultiwaySync-PT-none-Liveness-00 FALSE TECHNIQUES ORACLE2020

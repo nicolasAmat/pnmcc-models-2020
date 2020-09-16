@@ -1,0 +1,2 @@
+./runatest.sh RefineWMG-PT-010010 ReachabilityDeadlock
+FORMULA RefineWMG-PT-010-010-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

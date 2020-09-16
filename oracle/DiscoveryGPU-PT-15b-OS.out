@@ -1,0 +1,2 @@
+./runatest.sh DiscoveryGPU-PT-15b OneSafe
+FORMULA DiscoveryGPU-PT-15b-OneSafe-00 TRUE TECHNIQUES ORACLE2020

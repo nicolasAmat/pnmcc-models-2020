@@ -1,0 +1,2 @@
+./runatest.sh SmallOperatingSystem-PT-MT8192DC4096 OneSafe
+FORMULA SmallOperatingSystem-PT-MT8192DC4096-OneSafe-00 FALSE TECHNIQUES ORACLE2020

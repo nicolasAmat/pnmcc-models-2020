@@ -1,0 +1,2 @@
+./runatest.sh DLCround-PT-07a Liveness
+FORMULA DLCround-PT-07a-Liveness-00 FALSE TECHNIQUES ORACLE2020

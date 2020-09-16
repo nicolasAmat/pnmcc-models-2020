@@ -1,0 +1,2 @@
+./runatest.sh DatabaseWithMutex-PT-02 OneSafe
+FORMULA DatabaseWithMutex-PT-02-OneSafe-00 TRUE TECHNIQUES ORACLE2020

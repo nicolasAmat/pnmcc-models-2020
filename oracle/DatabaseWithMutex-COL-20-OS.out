@@ -1,0 +1,2 @@
+./runatest.sh DatabaseWithMutex-COL-20 OneSafe
+FORMULA DatabaseWithMutex-COL-20-OneSafe-00 FALSE TECHNIQUES ORACLE2020

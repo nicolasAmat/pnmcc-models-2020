@@ -1,0 +1,2 @@
+./runatest.sh QuasiCertifProtocol-COL-06 StableMarking
+FORMULA QuasiCertifProtocol-COL-06-StableMarking-00 FALSE TECHNIQUES ORACLE2020

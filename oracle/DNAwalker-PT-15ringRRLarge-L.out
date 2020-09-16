@@ -1,0 +1,2 @@
+./runatest.sh DNAwalker-PT-15ringRRLarge Liveness
+FORMULA DNAwalker-PT-15ringRRLarge-Liveness-00 FALSE TECHNIQUES ORACLE2020

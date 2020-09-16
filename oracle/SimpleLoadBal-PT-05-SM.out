@@ -1,0 +1,2 @@
+./runatest.sh SimpleLoadBal-PT-05 StableMarking
+FORMULA SimpleLoadBal-PT-05-StableMarking-00 TRUE TECHNIQUES ORACLE2020

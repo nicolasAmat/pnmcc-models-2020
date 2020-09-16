@@ -1,0 +1,2 @@
+./runatest.sh CloudDeployment-PT-7a Liveness
+FORMULA CloudDeployment-PT-7a-Liveness-00 FALSE TECHNIQUES ORACLE2020

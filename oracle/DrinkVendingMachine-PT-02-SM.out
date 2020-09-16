@@ -1,0 +1,2 @@
+./runatest.sh DrinkVendingMachine-PT-02 StableMarking
+FORMULA DrinkVendingMachine-PT-02-StableMarking-00 TRUE TECHNIQUES ORACLE2020

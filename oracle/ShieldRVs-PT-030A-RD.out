@@ -1,0 +1,2 @@
+./runatest.sh ShieldRVs-PT-030A ReachabilityDeadlock
+FORMULA ShieldRVs-PT-030A-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

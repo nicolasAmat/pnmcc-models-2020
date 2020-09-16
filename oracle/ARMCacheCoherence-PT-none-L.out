@@ -1,0 +1,2 @@
+./runatest.sh ARMCacheCoherence-PT-none Liveness
+FORMULA ARMCacheCoherence-PT-none-Liveness-00 FALSE TECHNIQUES ORACLE2020

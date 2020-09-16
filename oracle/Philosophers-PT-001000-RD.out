@@ -1,0 +1,2 @@
+./runatest.sh Philosophers-PT-001000 ReachabilityDeadlock
+FORMULA Philosophers-PT-001000-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

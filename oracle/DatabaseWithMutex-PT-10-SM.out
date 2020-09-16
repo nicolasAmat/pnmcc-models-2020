@@ -1,0 +1,2 @@
+./runatest.sh DatabaseWithMutex-PT-10 StableMarking
+FORMULA DatabaseWithMutex-PT-10-StableMarking-00 FALSE TECHNIQUES ORACLE2020

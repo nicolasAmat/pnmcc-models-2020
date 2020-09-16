@@ -1,0 +1,2 @@
+./runatest.sh CloudReconfiguration-PT-318 QuasiLiveness
+FORMULA CloudReconfiguration-PT-318-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

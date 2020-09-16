@@ -1,0 +1,2 @@
+./runatest.sh Philosophers-COL-001000 StableMarking
+FORMULA Philosophers-COL-001000-StableMarking-00 FALSE TECHNIQUES ORACLE2020

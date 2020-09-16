@@ -1,0 +1,2 @@
+./runatest.sh Kanban-PT-10000 StableMarking
+FORMULA Kanban-PT-10000-StableMarking-00 FALSE TECHNIQUES ORACLE2020

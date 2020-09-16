@@ -1,0 +1,2 @@
+./runatest.sh DiscoveryGPU-PT-13a QuasiLiveness
+FORMULA DiscoveryGPU-PT-13a-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

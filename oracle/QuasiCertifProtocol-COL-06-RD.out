@@ -1,0 +1,2 @@
+./runatest.sh QuasiCertifProtocol-COL-06 ReachabilityDeadlock
+FORMULA QuasiCertifProtocol-COL-06-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

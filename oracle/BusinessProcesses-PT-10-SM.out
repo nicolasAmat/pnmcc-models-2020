@@ -1,0 +1,2 @@
+./runatest.sh BusinessProcesses-PT-10 StableMarking
+FORMULA BusinessProcesses-PT-10-StableMarking-00 FALSE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh ERK-PT-000100 QuasiLiveness
+FORMULA ERK-PT-000100-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

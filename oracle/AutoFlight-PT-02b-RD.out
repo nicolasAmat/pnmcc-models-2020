@@ -1,0 +1,2 @@
+./runatest.sh AutoFlight-PT-02b ReachabilityDeadlock
+FORMULA AutoFlight-PT-02b-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

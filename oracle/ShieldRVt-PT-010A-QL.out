@@ -1,0 +1,2 @@
+./runatest.sh ShieldRVt-PT-010A QuasiLiveness
+FORMULA ShieldRVt-PT-010A-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

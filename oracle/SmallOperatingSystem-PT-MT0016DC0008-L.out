@@ -1,0 +1,2 @@
+./runatest.sh SmallOperatingSystem-PT-MT0016DC0008 Liveness
+FORMULA SmallOperatingSystem-PT-MT0016DC0008-Liveness-00 TRUE TECHNIQUES ORACLE2020

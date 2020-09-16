@@ -1,0 +1,2 @@
+./runatest.sh DoubleExponent-PT-020 StableMarking
+FORMULA DoubleExponent-PT-020-StableMarking-00 TRUE TECHNIQUES ORACLE2020

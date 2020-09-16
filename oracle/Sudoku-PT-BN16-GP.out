@@ -1,0 +1,2 @@
+./runatest.sh Sudoku-PT-BN16 GlobalProperties
+FORMULA Sudoku-PT-BN16-GlobalProperties-0 TRUE TECHNIQUES ORACLE2020

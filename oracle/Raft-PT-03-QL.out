@@ -1,0 +1,2 @@
+./runatest.sh Raft-PT-03 QuasiLiveness
+FORMULA Raft-PT-03-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

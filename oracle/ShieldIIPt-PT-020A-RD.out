@@ -1,0 +1,2 @@
+./runatest.sh ShieldIIPt-PT-020A ReachabilityDeadlock
+FORMULA ShieldIIPt-PT-020A-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

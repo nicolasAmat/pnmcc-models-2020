@@ -1,0 +1,2 @@
+./runatest.sh Sudoku-COL-BN01 StableMarking
+FORMULA Sudoku-COL-BN01-StableMarking-00 FALSE TECHNIQUES ORACLE2020

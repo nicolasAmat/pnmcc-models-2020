@@ -1,0 +1,2 @@
+./runatest.sh FMS-PT-00010 ReachabilityDeadlock
+FORMULA FMS-PT-00010-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

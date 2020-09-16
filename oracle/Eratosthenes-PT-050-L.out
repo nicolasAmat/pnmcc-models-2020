@@ -1,0 +1,2 @@
+./runatest.sh Eratosthenes-PT-050 Liveness
+FORMULA Eratosthenes-PT-050-Liveness-00 FALSE TECHNIQUES ORACLE2020

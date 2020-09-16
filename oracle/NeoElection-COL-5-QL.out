@@ -1,0 +1,2 @@
+./runatest.sh NeoElection-COL-5 QuasiLiveness
+FORMULA NeoElection-COL-5-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

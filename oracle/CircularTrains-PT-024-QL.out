@@ -1,0 +1,2 @@
+./runatest.sh CircularTrains-PT-024 QuasiLiveness
+FORMULA CircularTrains-PT-024-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

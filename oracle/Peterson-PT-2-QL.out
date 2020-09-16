@@ -1,0 +1,2 @@
+./runatest.sh Peterson-PT-2 QuasiLiveness
+FORMULA Peterson-PT-2-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

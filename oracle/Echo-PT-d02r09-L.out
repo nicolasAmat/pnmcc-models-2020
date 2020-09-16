@@ -1,0 +1,2 @@
+./runatest.sh Echo-PT-d02r09 Liveness
+FORMULA Echo-PT-d02r09-Liveness-00 FALSE TECHNIQUES ORACLE2020

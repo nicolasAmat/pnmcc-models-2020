@@ -1,0 +1,2 @@
+./runatest.sh DatabaseWithMutex-COL-40 ReachabilityDeadlock
+FORMULA DatabaseWithMutex-COL-40-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh Sudoku-PT-AN06 QuasiLiveness
+FORMULA Sudoku-PT-AN06-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

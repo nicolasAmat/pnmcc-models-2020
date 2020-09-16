@@ -1,0 +1,2 @@
+./runatest.sh LamportFastMutEx-COL-8 GlobalProperties
+FORMULA LamportFastMutEx-COL-8-GlobalProperties-0 FALSE TECHNIQUES ORACLE2020

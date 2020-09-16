@@ -1,0 +1,2 @@
+./runatest.sh SquareGrid-PT-130613 QuasiLiveness
+FORMULA SquareGrid-PT-130613-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

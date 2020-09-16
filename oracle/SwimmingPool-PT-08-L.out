@@ -1,0 +1,2 @@
+./runatest.sh SwimmingPool-PT-08 Liveness
+FORMULA SwimmingPool-PT-08-Liveness-00 TRUE TECHNIQUES ORACLE2020

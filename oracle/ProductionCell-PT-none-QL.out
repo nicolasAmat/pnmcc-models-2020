@@ -1,0 +1,2 @@
+./runatest.sh ProductionCell-PT-none QuasiLiveness
+FORMULA ProductionCell-PT-none-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

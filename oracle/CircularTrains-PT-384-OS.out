@@ -1,0 +1,2 @@
+./runatest.sh CircularTrains-PT-384 OneSafe
+FORMULA CircularTrains-PT-384-OneSafe-00 FALSE TECHNIQUES ORACLE2020

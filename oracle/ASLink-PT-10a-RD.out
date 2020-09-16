@@ -1,0 +1,2 @@
+./runatest.sh ASLink-PT-10a ReachabilityDeadlock
+FORMULA ASLink-PT-10a-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

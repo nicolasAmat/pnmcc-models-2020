@@ -1,0 +1,2 @@
+./runatest.sh HouseConstruction-PT-04000 QuasiLiveness
+FORMULA HouseConstruction-PT-04000-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

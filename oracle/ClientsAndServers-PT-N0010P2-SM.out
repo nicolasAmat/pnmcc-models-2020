@@ -1,0 +1,2 @@
+./runatest.sh ClientsAndServers-PT-N0010P2 StableMarking
+FORMULA ClientsAndServers-PT-N0010P2-StableMarking-00 FALSE TECHNIQUES ORACLE2020

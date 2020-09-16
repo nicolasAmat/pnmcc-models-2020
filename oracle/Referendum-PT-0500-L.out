@@ -1,0 +1,2 @@
+./runatest.sh Referendum-PT-0500 Liveness
+FORMULA Referendum-PT-0500-Liveness-00 FALSE TECHNIQUES ORACLE2020

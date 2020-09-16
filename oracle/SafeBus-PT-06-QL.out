@@ -1,0 +1,2 @@
+./runatest.sh SafeBus-PT-06 QuasiLiveness
+FORMULA SafeBus-PT-06-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

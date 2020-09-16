@@ -1,0 +1,2 @@
+./runatest.sh CloudReconfiguration-PT-402 Liveness
+FORMULA CloudReconfiguration-PT-402-Liveness-00 FALSE TECHNIQUES ORACLE2020

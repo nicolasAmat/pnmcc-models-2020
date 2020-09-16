@@ -1,0 +1,2 @@
+./runatest.sh PhaseVariation-PT-D02CS010 StableMarking
+FORMULA PhaseVariation-PT-D02CS010-StableMarking-00 FALSE TECHNIQUES ORACLE2020

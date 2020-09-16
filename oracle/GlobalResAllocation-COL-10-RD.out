@@ -1,0 +1,2 @@
+./runatest.sh GlobalResAllocation-COL-10 ReachabilityDeadlock
+FORMULA GlobalResAllocation-COL-10-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

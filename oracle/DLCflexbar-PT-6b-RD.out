@@ -1,0 +1,2 @@
+./runatest.sh DLCflexbar-PT-6b ReachabilityDeadlock
+FORMULA DLCflexbar-PT-6b-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

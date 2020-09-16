@@ -1,0 +1,2 @@
+./runatest.sh ParamProductionCell-PT-5 QuasiLiveness
+FORMULA ParamProductionCell-PT-5-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

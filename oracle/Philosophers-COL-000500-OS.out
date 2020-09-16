@@ -1,0 +1,2 @@
+./runatest.sh Philosophers-COL-000500 OneSafe
+FORMULA Philosophers-COL-000500-OneSafe-00 FALSE TECHNIQUES ORACLE2020

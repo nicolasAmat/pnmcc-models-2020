@@ -1,0 +1,2 @@
+./runatest.sh NoC3x3-PT-3B QuasiLiveness
+FORMULA NoC3x3-PT-3B-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

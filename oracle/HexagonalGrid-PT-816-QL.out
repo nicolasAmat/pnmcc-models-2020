@@ -1,0 +1,2 @@
+./runatest.sh HexagonalGrid-PT-816 QuasiLiveness
+FORMULA HexagonalGrid-PT-816-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

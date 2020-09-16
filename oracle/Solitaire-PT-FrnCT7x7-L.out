@@ -1,0 +1,2 @@
+./runatest.sh Solitaire-PT-FrnCT7x7 Liveness
+FORMULA Solitaire-PT-FrnCT7x7-Liveness-00 FALSE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh DatabaseWithMutex-COL-40 GlobalProperties
+FORMULA DatabaseWithMutex-COL-40-GlobalProperties-0 FALSE TECHNIQUES ORACLE2020

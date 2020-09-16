@@ -1,0 +1,2 @@
+./runatest.sh ProductionCell-PT-none StableMarking
+FORMULA ProductionCell-PT-none-StableMarking-00 FALSE TECHNIQUES ORACLE2020

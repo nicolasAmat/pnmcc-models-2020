@@ -1,0 +1,2 @@
+./runatest.sh HouseConstruction-PT-00005 StableMarking
+FORMULA HouseConstruction-PT-00005-StableMarking-00 FALSE TECHNIQUES ORACLE2020

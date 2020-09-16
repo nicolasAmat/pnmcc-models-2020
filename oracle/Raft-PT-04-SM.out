@@ -1,0 +1,2 @@
+./runatest.sh Raft-PT-04 StableMarking
+FORMULA Raft-PT-04-StableMarking-00 FALSE TECHNIQUES ORACLE2020

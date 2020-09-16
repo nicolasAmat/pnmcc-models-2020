@@ -1,0 +1,2 @@
+./runatest.sh AutoFlight-PT-03b QuasiLiveness
+FORMULA AutoFlight-PT-03b-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

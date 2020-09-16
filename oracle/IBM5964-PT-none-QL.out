@@ -1,0 +1,2 @@
+./runatest.sh IBM5964-PT-none QuasiLiveness
+FORMULA IBM5964-PT-none-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

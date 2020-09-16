@@ -1,0 +1,2 @@
+./runatest.sh Solitaire-PT-FrnCT7x7 QuasiLiveness
+FORMULA Solitaire-PT-FrnCT7x7-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh DES-PT-01b StableMarking
+FORMULA DES-PT-01b-StableMarking-00 FALSE TECHNIQUES ORACLE2020

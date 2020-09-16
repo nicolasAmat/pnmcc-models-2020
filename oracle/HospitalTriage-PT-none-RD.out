@@ -1,0 +1,2 @@
+./runatest.sh HospitalTriage-PT-none ReachabilityDeadlock
+FORMULA HospitalTriage-PT-none-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

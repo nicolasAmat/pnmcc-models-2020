@@ -1,0 +1,2 @@
+./runatest.sh Dekker-PT-100 QuasiLiveness
+FORMULA Dekker-PT-100-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

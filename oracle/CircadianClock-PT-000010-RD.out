@@ -1,0 +1,2 @@
+./runatest.sh CircadianClock-PT-000010 ReachabilityDeadlock
+FORMULA CircadianClock-PT-000010-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

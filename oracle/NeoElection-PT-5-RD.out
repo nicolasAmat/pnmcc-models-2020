@@ -1,0 +1,2 @@
+./runatest.sh NeoElection-PT-5 ReachabilityDeadlock
+FORMULA NeoElection-PT-5-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

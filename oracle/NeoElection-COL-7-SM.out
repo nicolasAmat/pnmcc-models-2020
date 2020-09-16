@@ -1,0 +1,2 @@
+./runatest.sh NeoElection-COL-7 StableMarking
+FORMULA NeoElection-COL-7-StableMarking-00 TRUE TECHNIQUES ORACLE2020

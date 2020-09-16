@@ -1,0 +1,2 @@
+./runatest.sh AirplaneLD-PT-0020 QuasiLiveness
+FORMULA AirplaneLD-PT-0020-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

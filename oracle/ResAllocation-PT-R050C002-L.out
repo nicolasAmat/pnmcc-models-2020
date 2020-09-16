@@ -1,0 +1,2 @@
+./runatest.sh ResAllocation-PT-R050C002 Liveness
+FORMULA ResAllocation-PT-R050C002-Liveness-00 FALSE TECHNIQUES ORACLE2020

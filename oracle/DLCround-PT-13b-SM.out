@@ -1,0 +1,2 @@
+./runatest.sh DLCround-PT-13b StableMarking
+FORMULA DLCround-PT-13b-StableMarking-00 FALSE TECHNIQUES ORACLE2020

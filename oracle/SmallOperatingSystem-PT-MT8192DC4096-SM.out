@@ -1,0 +1,2 @@
+./runatest.sh SmallOperatingSystem-PT-MT8192DC4096 StableMarking
+FORMULA SmallOperatingSystem-PT-MT8192DC4096-StableMarking-00 FALSE TECHNIQUES ORACLE2020

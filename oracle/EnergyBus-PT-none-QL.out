@@ -1,0 +1,2 @@
+./runatest.sh EnergyBus-PT-none QuasiLiveness
+FORMULA EnergyBus-PT-none-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

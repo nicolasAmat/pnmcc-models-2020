@@ -1,0 +1,2 @@
+./runatest.sh SmallOperatingSystem-PT-MT2048DC1024 StableMarking
+FORMULA SmallOperatingSystem-PT-MT2048DC1024-StableMarking-00 FALSE TECHNIQUES ORACLE2020

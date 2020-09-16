@@ -1,0 +1,2 @@
+./runatest.sh Peterson-COL-3 QuasiLiveness
+FORMULA Peterson-COL-3-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

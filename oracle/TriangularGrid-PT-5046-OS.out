@@ -1,0 +1,2 @@
+./runatest.sh TriangularGrid-PT-5046 OneSafe
+FORMULA TriangularGrid-PT-5046-OneSafe-00 FALSE TECHNIQUES ORACLE2020

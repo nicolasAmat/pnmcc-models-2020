@@ -1,0 +1,2 @@
+./runatest.sh PhaseVariation-PT-D10CS100 QuasiLiveness
+FORMULA PhaseVariation-PT-D10CS100-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

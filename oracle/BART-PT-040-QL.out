@@ -1,0 +1,2 @@
+./runatest.sh BART-PT-040 QuasiLiveness
+FORMULA BART-PT-040-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

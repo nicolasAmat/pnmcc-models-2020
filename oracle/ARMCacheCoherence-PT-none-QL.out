@@ -1,0 +1,2 @@
+./runatest.sh ARMCacheCoherence-PT-none QuasiLiveness
+FORMULA ARMCacheCoherence-PT-none-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

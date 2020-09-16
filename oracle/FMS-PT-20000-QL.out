@@ -1,0 +1,2 @@
+./runatest.sh FMS-PT-20000 QuasiLiveness
+FORMULA FMS-PT-20000-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

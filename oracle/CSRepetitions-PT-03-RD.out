@@ -1,0 +1,2 @@
+./runatest.sh CSRepetitions-PT-03 ReachabilityDeadlock
+FORMULA CSRepetitions-PT-03-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

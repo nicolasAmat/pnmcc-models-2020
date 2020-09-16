@@ -1,0 +1,2 @@
+./runatest.sh DNAwalker-PT-17redondantChoiceL QuasiLiveness
+FORMULA DNAwalker-PT-17redondantChoiceL-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

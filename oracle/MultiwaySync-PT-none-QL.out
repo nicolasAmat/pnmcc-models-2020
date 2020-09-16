@@ -1,0 +1,2 @@
+./runatest.sh MultiwaySync-PT-none QuasiLiveness
+FORMULA MultiwaySync-PT-none-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

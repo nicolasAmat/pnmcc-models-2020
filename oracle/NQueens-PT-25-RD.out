@@ -1,0 +1,2 @@
+./runatest.sh NQueens-PT-25 ReachabilityDeadlock
+FORMULA NQueens-PT-25-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

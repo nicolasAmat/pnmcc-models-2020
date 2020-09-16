@@ -1,0 +1,2 @@
+./runatest.sh BusinessProcesses-PT-01 ReachabilityDeadlock
+FORMULA BusinessProcesses-PT-01-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

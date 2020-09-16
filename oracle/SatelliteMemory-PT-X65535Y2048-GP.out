@@ -1,0 +1,2 @@
+./runatest.sh SatelliteMemory-PT-X65535Y2048 GlobalProperties
+FORMULA SatelliteMemory-PT-X65535Y2048-GlobalProperties-0 FALSE TECHNIQUES ORACLE2020

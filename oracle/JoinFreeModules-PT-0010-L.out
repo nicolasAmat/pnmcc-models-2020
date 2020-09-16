@@ -1,0 +1,2 @@
+./runatest.sh JoinFreeModules-PT-0010 Liveness
+FORMULA JoinFreeModules-PT-0010-Liveness-00 FALSE TECHNIQUES ORACLE2020

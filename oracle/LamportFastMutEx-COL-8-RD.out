@@ -1,0 +1,2 @@
+./runatest.sh LamportFastMutEx-COL-8 ReachabilityDeadlock
+FORMULA LamportFastMutEx-COL-8-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

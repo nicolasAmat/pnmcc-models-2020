@@ -1,0 +1,2 @@
+./runatest.sh CloudDeployment-PT-2b OneSafe
+FORMULA CloudDeployment-PT-2b-OneSafe-00 TRUE TECHNIQUES ORACLE2020

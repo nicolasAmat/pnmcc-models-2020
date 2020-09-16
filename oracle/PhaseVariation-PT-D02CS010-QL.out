@@ -1,0 +1,2 @@
+./runatest.sh PhaseVariation-PT-D02CS010 QuasiLiveness
+FORMULA PhaseVariation-PT-D02CS010-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

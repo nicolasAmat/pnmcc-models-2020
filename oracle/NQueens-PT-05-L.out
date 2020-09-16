@@ -1,0 +1,2 @@
+./runatest.sh NQueens-PT-05 Liveness
+FORMULA NQueens-PT-05-Liveness-00 FALSE TECHNIQUES ORACLE2020

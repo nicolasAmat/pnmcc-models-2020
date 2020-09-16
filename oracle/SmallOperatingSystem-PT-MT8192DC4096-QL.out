@@ -1,0 +1,2 @@
+./runatest.sh SmallOperatingSystem-PT-MT8192DC4096 QuasiLiveness
+FORMULA SmallOperatingSystem-PT-MT8192DC4096-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

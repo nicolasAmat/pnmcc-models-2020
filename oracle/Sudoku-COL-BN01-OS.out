@@ -1,0 +1,2 @@
+./runatest.sh Sudoku-COL-BN01 OneSafe
+FORMULA Sudoku-COL-BN01-OneSafe-00 TRUE TECHNIQUES ORACLE2020

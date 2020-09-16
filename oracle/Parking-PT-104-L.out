@@ -1,0 +1,2 @@
+./runatest.sh Parking-PT-104 Liveness
+FORMULA Parking-PT-104-Liveness-00 FALSE TECHNIQUES ORACLE2020

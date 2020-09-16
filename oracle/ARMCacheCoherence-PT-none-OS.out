@@ -1,0 +1,2 @@
+./runatest.sh ARMCacheCoherence-PT-none OneSafe
+FORMULA ARMCacheCoherence-PT-none-OneSafe-00 TRUE TECHNIQUES ORACLE2020

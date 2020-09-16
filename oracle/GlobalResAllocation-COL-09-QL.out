@@ -1,0 +1,2 @@
+./runatest.sh GlobalResAllocation-COL-09 QuasiLiveness
+FORMULA GlobalResAllocation-COL-09-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

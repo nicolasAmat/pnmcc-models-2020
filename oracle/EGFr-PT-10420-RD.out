@@ -1,0 +1,2 @@
+./runatest.sh EGFr-PT-10420 ReachabilityDeadlock
+FORMULA EGFr-PT-10420-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

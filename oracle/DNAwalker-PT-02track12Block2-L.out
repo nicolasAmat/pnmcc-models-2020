@@ -1,0 +1,2 @@
+./runatest.sh DNAwalker-PT-02track12Block2 Liveness
+FORMULA DNAwalker-PT-02track12Block2-Liveness-00 FALSE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh DLCshifumi-PT-5b Liveness
+FORMULA DLCshifumi-PT-5b-Liveness-00 FALSE TECHNIQUES ORACLE2020

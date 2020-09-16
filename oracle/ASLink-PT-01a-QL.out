@@ -1,0 +1,2 @@
+./runatest.sh ASLink-PT-01a QuasiLiveness
+FORMULA ASLink-PT-01a-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

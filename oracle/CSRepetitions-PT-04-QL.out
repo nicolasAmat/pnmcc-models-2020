@@ -1,0 +1,2 @@
+./runatest.sh CSRepetitions-PT-04 QuasiLiveness
+FORMULA CSRepetitions-PT-04-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

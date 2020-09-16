@@ -1,0 +1,2 @@
+./runatest.sh PermAdmissibility-COL-05 OneSafe
+FORMULA PermAdmissibility-COL-05-OneSafe-00 FALSE TECHNIQUES ORACLE2020

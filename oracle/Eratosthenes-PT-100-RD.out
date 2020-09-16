@@ -1,0 +1,2 @@
+./runatest.sh Eratosthenes-PT-100 ReachabilityDeadlock
+FORMULA Eratosthenes-PT-100-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

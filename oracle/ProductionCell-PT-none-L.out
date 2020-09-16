@@ -1,0 +1,2 @@
+./runatest.sh ProductionCell-PT-none Liveness
+FORMULA ProductionCell-PT-none-Liveness-00 FALSE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh LamportFastMutEx-PT-2 StableMarking
+FORMULA LamportFastMutEx-PT-2-StableMarking-00 TRUE TECHNIQUES ORACLE2020

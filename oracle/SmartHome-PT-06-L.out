@@ -1,0 +1,2 @@
+./runatest.sh SmartHome-PT-06 Liveness
+FORMULA SmartHome-PT-06-Liveness-00 FALSE TECHNIQUES ORACLE2020

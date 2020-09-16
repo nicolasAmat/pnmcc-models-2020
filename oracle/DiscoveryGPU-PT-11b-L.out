@@ -1,0 +1,2 @@
+./runatest.sh DiscoveryGPU-PT-11b Liveness
+FORMULA DiscoveryGPU-PT-11b-Liveness-00 FALSE TECHNIQUES ORACLE2020

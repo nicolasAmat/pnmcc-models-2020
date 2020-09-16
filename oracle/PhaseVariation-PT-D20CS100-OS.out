@@ -1,0 +1,2 @@
+./runatest.sh PhaseVariation-PT-D20CS100 OneSafe
+FORMULA PhaseVariation-PT-D20CS100-OneSafe-00 FALSE TECHNIQUES ORACLE2020

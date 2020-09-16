@@ -1,0 +1,2 @@
+./runatest.sh Planning-PT-none QuasiLiveness
+FORMULA Planning-PT-none-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

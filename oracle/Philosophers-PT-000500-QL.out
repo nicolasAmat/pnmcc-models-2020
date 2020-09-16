@@ -1,0 +1,2 @@
+./runatest.sh Philosophers-PT-000500 QuasiLiveness
+FORMULA Philosophers-PT-000500-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

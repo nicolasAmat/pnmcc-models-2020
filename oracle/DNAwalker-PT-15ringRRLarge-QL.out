@@ -1,0 +1,2 @@
+./runatest.sh DNAwalker-PT-15ringRRLarge QuasiLiveness
+FORMULA DNAwalker-PT-15ringRRLarge-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

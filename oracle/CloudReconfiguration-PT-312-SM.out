@@ -1,0 +1,2 @@
+./runatest.sh CloudReconfiguration-PT-312 StableMarking
+FORMULA CloudReconfiguration-PT-312-StableMarking-00 FALSE TECHNIQUES ORACLE2020

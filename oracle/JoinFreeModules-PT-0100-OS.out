@@ -1,0 +1,2 @@
+./runatest.sh JoinFreeModules-PT-0100 OneSafe
+FORMULA JoinFreeModules-PT-0100-OneSafe-00 FALSE TECHNIQUES ORACLE2020

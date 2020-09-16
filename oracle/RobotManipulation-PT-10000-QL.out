@@ -1,0 +1,2 @@
+./runatest.sh RobotManipulation-PT-10000 QuasiLiveness
+FORMULA RobotManipulation-PT-10000-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh GlobalResAllocation-COL-03 OneSafe
+FORMULA GlobalResAllocation-COL-03-OneSafe-00 FALSE TECHNIQUES ORACLE2020

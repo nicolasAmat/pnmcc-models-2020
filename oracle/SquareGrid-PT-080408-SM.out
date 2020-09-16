@@ -1,0 +1,2 @@
+./runatest.sh SquareGrid-PT-080408 StableMarking
+FORMULA SquareGrid-PT-080408-StableMarking-00 FALSE TECHNIQUES ORACLE2020

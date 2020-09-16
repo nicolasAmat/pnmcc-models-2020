@@ -1,0 +1,2 @@
+./runatest.sh CloudDeployment-PT-7a QuasiLiveness
+FORMULA CloudDeployment-PT-7a-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

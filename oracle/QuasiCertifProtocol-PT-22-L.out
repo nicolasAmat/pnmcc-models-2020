@@ -1,0 +1,2 @@
+./runatest.sh QuasiCertifProtocol-PT-22 Liveness
+FORMULA QuasiCertifProtocol-PT-22-Liveness-00 FALSE TECHNIQUES ORACLE2020

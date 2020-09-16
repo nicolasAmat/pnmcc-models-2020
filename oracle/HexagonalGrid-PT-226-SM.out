@@ -1,0 +1,2 @@
+./runatest.sh HexagonalGrid-PT-226 StableMarking
+FORMULA HexagonalGrid-PT-226-StableMarking-00 FALSE TECHNIQUES ORACLE2020

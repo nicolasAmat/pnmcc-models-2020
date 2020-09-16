@@ -1,0 +1,2 @@
+./runatest.sh NeoElection-COL-8 Liveness
+FORMULA NeoElection-COL-8-Liveness-00 FALSE TECHNIQUES ORACLE2020

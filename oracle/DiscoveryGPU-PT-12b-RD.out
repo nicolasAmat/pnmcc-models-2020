@@ -1,0 +1,2 @@
+./runatest.sh DiscoveryGPU-PT-12b ReachabilityDeadlock
+FORMULA DiscoveryGPU-PT-12b-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

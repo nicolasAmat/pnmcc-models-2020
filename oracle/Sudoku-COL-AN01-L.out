@@ -1,0 +1,2 @@
+./runatest.sh Sudoku-COL-AN01 Liveness
+FORMULA Sudoku-COL-AN01-Liveness-00 FALSE TECHNIQUES ORACLE2020

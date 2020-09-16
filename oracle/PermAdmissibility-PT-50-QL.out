@@ -1,0 +1,2 @@
+./runatest.sh PermAdmissibility-PT-50 QuasiLiveness
+FORMULA PermAdmissibility-PT-50-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

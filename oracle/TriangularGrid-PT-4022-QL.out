@@ -1,0 +1,2 @@
+./runatest.sh TriangularGrid-PT-4022 QuasiLiveness
+FORMULA TriangularGrid-PT-4022-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

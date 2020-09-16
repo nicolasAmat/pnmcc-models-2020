@@ -1,0 +1,2 @@
+./runatest.sh CloudDeployment-PT-4b ReachabilityDeadlock
+FORMULA CloudDeployment-PT-4b-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

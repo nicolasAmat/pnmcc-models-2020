@@ -1,0 +1,2 @@
+./runatest.sh CloudDeployment-PT-5a StableMarking
+FORMULA CloudDeployment-PT-5a-StableMarking-00 FALSE TECHNIQUES ORACLE2020

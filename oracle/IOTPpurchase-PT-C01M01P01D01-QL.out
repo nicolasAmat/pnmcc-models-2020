@@ -1,0 +1,2 @@
+./runatest.sh IOTPpurchase-PT-C01M01P01D01 QuasiLiveness
+FORMULA IOTPpurchase-PT-C01M01P01D01-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

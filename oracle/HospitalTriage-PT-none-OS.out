@@ -1,0 +1,2 @@
+./runatest.sh HospitalTriage-PT-none OneSafe
+FORMULA HospitalTriage-PT-none-OneSafe-00 FALSE TECHNIQUES ORACLE2020

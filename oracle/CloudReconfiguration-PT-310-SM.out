@@ -1,0 +1,2 @@
+./runatest.sh CloudReconfiguration-PT-310 StableMarking
+FORMULA CloudReconfiguration-PT-310-StableMarking-00 TRUE TECHNIQUES ORACLE2020

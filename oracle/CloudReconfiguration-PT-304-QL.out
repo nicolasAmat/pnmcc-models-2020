@@ -1,0 +1,2 @@
+./runatest.sh CloudReconfiguration-PT-304 QuasiLiveness
+FORMULA CloudReconfiguration-PT-304-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

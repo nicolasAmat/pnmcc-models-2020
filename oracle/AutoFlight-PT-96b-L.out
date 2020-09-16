@@ -1,0 +1,2 @@
+./runatest.sh AutoFlight-PT-96b Liveness
+FORMULA AutoFlight-PT-96b-Liveness-00 FALSE TECHNIQUES ORACLE2020

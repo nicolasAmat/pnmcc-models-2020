@@ -1,0 +1,2 @@
+./runatest.sh Dekker-PT-050 Liveness
+FORMULA Dekker-PT-050-Liveness-00 TRUE TECHNIQUES ORACLE2020

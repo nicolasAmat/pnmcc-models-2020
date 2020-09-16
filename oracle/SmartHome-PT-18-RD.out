@@ -1,0 +1,2 @@
+./runatest.sh SmartHome-PT-18 ReachabilityDeadlock
+FORMULA SmartHome-PT-18-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

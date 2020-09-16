@@ -1,0 +1,2 @@
+./runatest.sh ClientsAndServers-PT-N0005P0 OneSafe
+FORMULA ClientsAndServers-PT-N0005P0-OneSafe-00 FALSE TECHNIQUES ORACLE2020

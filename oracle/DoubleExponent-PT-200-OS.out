@@ -1,0 +1,2 @@
+./runatest.sh DoubleExponent-PT-200 OneSafe
+FORMULA DoubleExponent-PT-200-OneSafe-00 FALSE TECHNIQUES ORACLE2020

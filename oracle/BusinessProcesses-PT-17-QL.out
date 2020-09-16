@@ -1,0 +1,2 @@
+./runatest.sh BusinessProcesses-PT-17 QuasiLiveness
+FORMULA BusinessProcesses-PT-17-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

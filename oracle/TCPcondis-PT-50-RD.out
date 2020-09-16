@@ -1,0 +1,2 @@
+./runatest.sh TCPcondis-PT-50 ReachabilityDeadlock
+FORMULA TCPcondis-PT-50-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh FlexibleBarrier-PT-04b Liveness
+FORMULA FlexibleBarrier-PT-04b-Liveness-00 FALSE TECHNIQUES ORACLE2020

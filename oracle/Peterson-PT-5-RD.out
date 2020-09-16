@@ -1,0 +1,2 @@
+./runatest.sh Peterson-PT-5 ReachabilityDeadlock
+FORMULA Peterson-PT-5-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

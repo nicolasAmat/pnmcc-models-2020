@@ -1,0 +1,2 @@
+./runatest.sh ShieldRVs-PT-001B Liveness
+FORMULA ShieldRVs-PT-001B-Liveness-00 FALSE TECHNIQUES ORACLE2020

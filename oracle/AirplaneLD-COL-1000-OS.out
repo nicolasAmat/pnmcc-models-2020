@@ -1,0 +1,2 @@
+./runatest.sh AirplaneLD-COL-1000 OneSafe
+FORMULA AirplaneLD-COL-1000-OneSafe-00 FALSE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh EGFr-PT-10421 QuasiLiveness
+FORMULA EGFr-PT-10421-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

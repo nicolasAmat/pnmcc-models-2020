@@ -1,0 +1,2 @@
+./runatest.sh Solitaire-PT-SqrCT5x5 Liveness
+FORMULA Solitaire-PT-SqrCT5x5-Liveness-00 FALSE TECHNIQUES ORACLE2020

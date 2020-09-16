@@ -1,0 +1,2 @@
+./runatest.sh DoubleExponent-PT-020 QuasiLiveness
+FORMULA DoubleExponent-PT-020-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

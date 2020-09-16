@@ -1,0 +1,2 @@
+./runatest.sh Sudoku-COL-AN09 GlobalProperties
+FORMULA Sudoku-COL-AN09-GlobalProperties-0 TRUE TECHNIQUES ORACLE2020

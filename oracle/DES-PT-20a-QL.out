@@ -1,0 +1,2 @@
+./runatest.sh DES-PT-20a QuasiLiveness
+FORMULA DES-PT-20a-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

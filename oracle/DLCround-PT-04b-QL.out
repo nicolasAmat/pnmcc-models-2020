@@ -1,0 +1,2 @@
+./runatest.sh DLCround-PT-04b QuasiLiveness
+FORMULA DLCround-PT-04b-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

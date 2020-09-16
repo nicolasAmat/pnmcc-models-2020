@@ -1,0 +1,2 @@
+./runatest.sh PhilosophersDyn-COL-80 QuasiLiveness
+FORMULA PhilosophersDyn-COL-80-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

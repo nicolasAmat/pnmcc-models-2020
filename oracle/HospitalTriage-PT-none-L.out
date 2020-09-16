@@ -1,0 +1,2 @@
+./runatest.sh HospitalTriage-PT-none Liveness
+FORMULA HospitalTriage-PT-none-Liveness-00 FALSE TECHNIQUES ORACLE2020

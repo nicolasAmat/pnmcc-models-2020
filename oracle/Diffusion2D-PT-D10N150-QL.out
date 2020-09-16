@@ -1,0 +1,2 @@
+./runatest.sh Diffusion2D-PT-D10N150 QuasiLiveness
+FORMULA Diffusion2D-PT-D10N150-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

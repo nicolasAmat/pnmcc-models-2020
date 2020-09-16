@@ -1,0 +1,2 @@
+./runatest.sh Referendum-COL-0015 QuasiLiveness
+FORMULA Referendum-COL-0015-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh CircularTrains-PT-384 ReachabilityDeadlock
+FORMULA CircularTrains-PT-384-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh ClientsAndServers-PT-N0001P0 QuasiLiveness
+FORMULA ClientsAndServers-PT-N0001P0-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

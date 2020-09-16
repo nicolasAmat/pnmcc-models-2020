@@ -1,0 +1,2 @@
+./runatest.sh SharedMemory-COL-000010 OneSafe
+FORMULA SharedMemory-COL-000010-OneSafe-00 FALSE TECHNIQUES ORACLE2020

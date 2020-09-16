@@ -1,0 +1,2 @@
+./runatest.sh FMS-PT-10000 StableMarking
+FORMULA FMS-PT-10000-StableMarking-00 FALSE TECHNIQUES ORACLE2020

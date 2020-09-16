@@ -1,0 +1,2 @@
+./runatest.sh MAPK-PT-00080 QuasiLiveness
+FORMULA MAPK-PT-00080-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

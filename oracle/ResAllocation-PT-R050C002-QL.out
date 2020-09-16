@@ -1,0 +1,2 @@
+./runatest.sh ResAllocation-PT-R050C002 QuasiLiveness
+FORMULA ResAllocation-PT-R050C002-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

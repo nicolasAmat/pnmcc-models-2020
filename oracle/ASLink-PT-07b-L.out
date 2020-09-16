@@ -1,0 +1,2 @@
+./runatest.sh ASLink-PT-07b Liveness
+FORMULA ASLink-PT-07b-Liveness-00 FALSE TECHNIQUES ORACLE2020

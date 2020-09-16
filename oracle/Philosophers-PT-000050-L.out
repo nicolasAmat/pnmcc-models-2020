@@ -1,0 +1,2 @@
+./runatest.sh Philosophers-PT-000050 Liveness
+FORMULA Philosophers-PT-000050-Liveness-00 FALSE TECHNIQUES ORACLE2020

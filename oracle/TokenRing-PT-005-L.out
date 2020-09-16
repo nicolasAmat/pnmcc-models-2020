@@ -1,0 +1,2 @@
+./runatest.sh TokenRing-PT-005 Liveness
+FORMULA TokenRing-PT-005-Liveness-00 FALSE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh CircularTrains-PT-192 StableMarking
+FORMULA CircularTrains-PT-192-StableMarking-00 FALSE TECHNIQUES ORACLE2020

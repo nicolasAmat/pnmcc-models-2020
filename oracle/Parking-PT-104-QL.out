@@ -1,0 +1,2 @@
+./runatest.sh Parking-PT-104 QuasiLiveness
+FORMULA Parking-PT-104-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh Angiogenesis-PT-25 QuasiLiveness
+FORMULA Angiogenesis-PT-25-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

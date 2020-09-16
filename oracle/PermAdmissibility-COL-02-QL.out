@@ -1,0 +1,2 @@
+./runatest.sh PermAdmissibility-COL-02 QuasiLiveness
+FORMULA PermAdmissibility-COL-02-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

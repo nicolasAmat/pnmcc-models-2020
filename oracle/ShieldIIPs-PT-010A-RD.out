@@ -1,0 +1,2 @@
+./runatest.sh ShieldIIPs-PT-010A ReachabilityDeadlock
+FORMULA ShieldIIPs-PT-010A-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

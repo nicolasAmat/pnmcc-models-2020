@@ -1,0 +1,2 @@
+./runatest.sh Sudoku-PT-BN16 OneSafe
+FORMULA Sudoku-PT-BN16-OneSafe-00 TRUE TECHNIQUES ORACLE2020

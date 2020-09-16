@@ -1,0 +1,2 @@
+./runatest.sh PermAdmissibility-COL-05 StableMarking
+FORMULA PermAdmissibility-COL-05-StableMarking-00 FALSE TECHNIQUES ORACLE2020

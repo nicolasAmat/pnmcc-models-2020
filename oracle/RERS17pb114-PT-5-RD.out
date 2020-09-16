@@ -1,0 +1,2 @@
+./runatest.sh RERS17pb114-PT-5 ReachabilityDeadlock
+FORMULA RERS17pb114-PT-5-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

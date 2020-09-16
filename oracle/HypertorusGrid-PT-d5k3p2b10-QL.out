@@ -1,0 +1,2 @@
+./runatest.sh HypertorusGrid-PT-d5k3p2b10 QuasiLiveness
+FORMULA HypertorusGrid-PT-d5k3p2b10-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh SharedMemory-PT-000005 OneSafe
+FORMULA SharedMemory-PT-000005-OneSafe-00 TRUE TECHNIQUES ORACLE2020

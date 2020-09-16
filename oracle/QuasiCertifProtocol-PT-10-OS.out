@@ -1,0 +1,2 @@
+./runatest.sh QuasiCertifProtocol-PT-10 OneSafe
+FORMULA QuasiCertifProtocol-PT-10-OneSafe-00 FALSE TECHNIQUES ORACLE2020

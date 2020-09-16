@@ -1,0 +1,2 @@
+./runatest.sh PhilosophersDyn-COL-80 StableMarking
+FORMULA PhilosophersDyn-COL-80-StableMarking-00 FALSE TECHNIQUES ORACLE2020

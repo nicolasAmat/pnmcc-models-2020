@@ -1,0 +1,2 @@
+./runatest.sh NoC3x3-PT-2B StableMarking
+FORMULA NoC3x3-PT-2B-StableMarking-00 TRUE TECHNIQUES ORACLE2020

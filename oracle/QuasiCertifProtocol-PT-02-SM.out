@@ -1,0 +1,2 @@
+./runatest.sh QuasiCertifProtocol-PT-02 StableMarking
+FORMULA QuasiCertifProtocol-PT-02-StableMarking-00 FALSE TECHNIQUES ORACLE2020

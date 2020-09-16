@@ -1,0 +1,2 @@
+./runatest.sh MAPKbis-PT-5310 ReachabilityDeadlock
+FORMULA MAPKbis-PT-5310-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh Diffusion2D-PT-D20N150 StableMarking
+FORMULA Diffusion2D-PT-D20N150-StableMarking-00 FALSE TECHNIQUES ORACLE2020

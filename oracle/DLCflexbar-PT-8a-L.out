@@ -1,0 +1,2 @@
+./runatest.sh DLCflexbar-PT-8a Liveness
+FORMULA DLCflexbar-PT-8a-Liveness-00 FALSE TECHNIQUES ORACLE2020

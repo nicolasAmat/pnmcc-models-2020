@@ -1,0 +1,2 @@
+./runatest.sh LamportFastMutEx-COL-8 QuasiLiveness
+FORMULA LamportFastMutEx-COL-8-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

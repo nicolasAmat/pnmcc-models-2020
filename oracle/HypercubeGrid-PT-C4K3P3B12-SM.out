@@ -1,0 +1,2 @@
+./runatest.sh HypercubeGrid-PT-C4K3P3B12 StableMarking
+FORMULA HypercubeGrid-PT-C4K3P3B12-StableMarking-00 FALSE TECHNIQUES ORACLE2020

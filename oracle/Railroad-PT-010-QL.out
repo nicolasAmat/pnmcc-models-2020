@@ -1,0 +1,2 @@
+./runatest.sh Railroad-PT-010 QuasiLiveness
+FORMULA Railroad-PT-010-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

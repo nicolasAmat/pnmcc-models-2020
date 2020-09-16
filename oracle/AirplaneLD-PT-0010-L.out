@@ -1,0 +1,2 @@
+./runatest.sh AirplaneLD-PT-0010 Liveness
+FORMULA AirplaneLD-PT-0010-Liveness-00 FALSE TECHNIQUES ORACLE2020

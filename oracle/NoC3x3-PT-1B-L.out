@@ -1,0 +1,2 @@
+./runatest.sh NoC3x3-PT-1B Liveness
+FORMULA NoC3x3-PT-1B-Liveness-00 FALSE TECHNIQUES ORACLE2020

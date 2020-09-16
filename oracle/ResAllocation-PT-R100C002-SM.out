@@ -1,0 +1,2 @@
+./runatest.sh ResAllocation-PT-R100C002 StableMarking
+FORMULA ResAllocation-PT-R100C002-StableMarking-00 FALSE TECHNIQUES ORACLE2020

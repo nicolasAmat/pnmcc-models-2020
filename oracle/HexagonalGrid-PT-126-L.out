@@ -1,0 +1,2 @@
+./runatest.sh HexagonalGrid-PT-126 Liveness
+FORMULA HexagonalGrid-PT-126-Liveness-00 TRUE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh DrinkVendingMachine-COL-10 OneSafe
+FORMULA DrinkVendingMachine-COL-10-OneSafe-00 FALSE TECHNIQUES ORACLE2020

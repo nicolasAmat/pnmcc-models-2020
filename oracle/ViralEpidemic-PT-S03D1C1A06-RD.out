@@ -1,0 +1,2 @@
+./runatest.sh ViralEpidemic-PT-S03D1C1A06 ReachabilityDeadlock
+FORMULA ViralEpidemic-PT-S03D1C1A06-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh DNAwalker-PT-04track28LL QuasiLiveness
+FORMULA DNAwalker-PT-04track28LL-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

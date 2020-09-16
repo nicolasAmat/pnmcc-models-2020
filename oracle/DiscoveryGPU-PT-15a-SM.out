@@ -1,0 +1,2 @@
+./runatest.sh DiscoveryGPU-PT-15a StableMarking
+FORMULA DiscoveryGPU-PT-15a-StableMarking-00 FALSE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh NeighborGrid-PT-d3n3m1t11 QuasiLiveness
+FORMULA NeighborGrid-PT-d3n3m1t11-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

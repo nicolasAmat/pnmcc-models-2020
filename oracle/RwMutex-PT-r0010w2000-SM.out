@@ -1,0 +1,2 @@
+./runatest.sh RwMutex-PT-r0010w2000 StableMarking
+FORMULA RwMutex-PT-r0010w2000-StableMarking-00 FALSE TECHNIQUES ORACLE2020

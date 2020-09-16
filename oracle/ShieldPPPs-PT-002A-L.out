@@ -1,0 +1,2 @@
+./runatest.sh ShieldPPPs-PT-002A Liveness
+FORMULA ShieldPPPs-PT-002A-Liveness-00 FALSE TECHNIQUES ORACLE2020

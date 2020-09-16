@@ -1,0 +1,2 @@
+./runatest.sh ClientsAndServers-PT-N0020P0 Liveness
+FORMULA ClientsAndServers-PT-N0020P0-Liveness-00 FALSE TECHNIQUES ORACLE2020

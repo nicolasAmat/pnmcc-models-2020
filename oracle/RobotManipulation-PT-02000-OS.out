@@ -1,0 +1,2 @@
+./runatest.sh RobotManipulation-PT-02000 OneSafe
+FORMULA RobotManipulation-PT-02000-OneSafe-00 FALSE TECHNIQUES ORACLE2020

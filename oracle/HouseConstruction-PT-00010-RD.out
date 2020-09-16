@@ -1,0 +1,2 @@
+./runatest.sh HouseConstruction-PT-00010 ReachabilityDeadlock
+FORMULA HouseConstruction-PT-00010-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh Raft-PT-02 Liveness
+FORMULA Raft-PT-02-Liveness-00 FALSE TECHNIQUES ORACLE2020

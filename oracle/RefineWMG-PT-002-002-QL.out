@@ -1,0 +1,2 @@
+./runatest.sh RefineWMG-PT-002002 QuasiLiveness
+FORMULA RefineWMG-PT-002-002-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

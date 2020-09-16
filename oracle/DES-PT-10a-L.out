@@ -1,0 +1,2 @@
+./runatest.sh DES-PT-10a Liveness
+FORMULA DES-PT-10a-Liveness-00 FALSE TECHNIQUES ORACLE2020

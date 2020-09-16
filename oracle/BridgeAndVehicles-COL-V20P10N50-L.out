@@ -1,0 +1,2 @@
+./runatest.sh BridgeAndVehicles-COL-V20P10N50 Liveness
+FORMULA BridgeAndVehicles-COL-V20P10N50-Liveness-00 FALSE TECHNIQUES ORACLE2020

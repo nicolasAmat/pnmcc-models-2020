@@ -1,0 +1,2 @@
+./runatest.sh DoubleExponent-PT-200 Liveness
+FORMULA DoubleExponent-PT-200-Liveness-00 FALSE TECHNIQUES ORACLE2020

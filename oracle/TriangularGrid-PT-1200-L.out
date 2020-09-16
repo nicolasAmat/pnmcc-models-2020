@@ -1,0 +1,2 @@
+./runatest.sh TriangularGrid-PT-1200 Liveness
+FORMULA TriangularGrid-PT-1200-Liveness-00 TRUE TECHNIQUES ORACLE2020

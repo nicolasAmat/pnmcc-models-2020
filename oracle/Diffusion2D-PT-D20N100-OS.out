@@ -1,0 +1,2 @@
+./runatest.sh Diffusion2D-PT-D20N100 OneSafe
+FORMULA Diffusion2D-PT-D20N100-OneSafe-00 FALSE TECHNIQUES ORACLE2020

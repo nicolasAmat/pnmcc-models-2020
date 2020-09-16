@@ -1,0 +1,2 @@
+./runatest.sh LamportFastMutEx-COL-3 OneSafe
+FORMULA LamportFastMutEx-COL-3-OneSafe-00 FALSE TECHNIQUES ORACLE2020

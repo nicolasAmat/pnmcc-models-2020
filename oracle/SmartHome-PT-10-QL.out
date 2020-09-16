@@ -1,0 +1,2 @@
+./runatest.sh SmartHome-PT-10 QuasiLiveness
+FORMULA SmartHome-PT-10-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

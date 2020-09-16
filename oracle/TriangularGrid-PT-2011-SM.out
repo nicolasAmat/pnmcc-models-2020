@@ -1,0 +1,2 @@
+./runatest.sh TriangularGrid-PT-2011 StableMarking
+FORMULA TriangularGrid-PT-2011-StableMarking-00 FALSE TECHNIQUES ORACLE2020

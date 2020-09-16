@@ -1,0 +1,2 @@
+./runatest.sh IOTPpurchase-PT-C03M03P03D03 ReachabilityDeadlock
+FORMULA IOTPpurchase-PT-C03M03P03D03-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

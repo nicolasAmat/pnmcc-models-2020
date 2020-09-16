@@ -1,0 +1,2 @@
+./runatest.sh CircadianClock-PT-010000 QuasiLiveness
+FORMULA CircadianClock-PT-010000-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

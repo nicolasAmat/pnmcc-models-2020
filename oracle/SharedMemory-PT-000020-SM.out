@@ -1,0 +1,2 @@
+./runatest.sh SharedMemory-PT-000020 StableMarking
+FORMULA SharedMemory-PT-000020-StableMarking-00 FALSE TECHNIQUES ORACLE2020

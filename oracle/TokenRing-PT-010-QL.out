@@ -1,0 +1,2 @@
+./runatest.sh TokenRing-PT-010 QuasiLiveness
+FORMULA TokenRing-PT-010-QuasiLiveness-00 FALSE TECHNIQUES ORACLE2020

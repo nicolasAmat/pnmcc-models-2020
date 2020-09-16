@@ -1,0 +1,2 @@
+./runatest.sh ShieldPPPs-PT-001B ReachabilityDeadlock
+FORMULA ShieldPPPs-PT-001B-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh Kanban-PT-02000 QuasiLiveness
+FORMULA Kanban-PT-02000-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

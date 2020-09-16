@@ -1,0 +1,2 @@
+./runatest.sh DLCround-PT-13a ReachabilityDeadlock
+FORMULA DLCround-PT-13a-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

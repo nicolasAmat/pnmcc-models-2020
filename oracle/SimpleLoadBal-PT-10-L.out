@@ -1,0 +1,2 @@
+./runatest.sh SimpleLoadBal-PT-10 Liveness
+FORMULA SimpleLoadBal-PT-10-Liveness-00 FALSE TECHNIQUES ORACLE2020

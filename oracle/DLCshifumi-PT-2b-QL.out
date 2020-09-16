@@ -1,0 +1,2 @@
+./runatest.sh DLCshifumi-PT-2b QuasiLiveness
+FORMULA DLCshifumi-PT-2b-QuasiLiveness-00 TRUE TECHNIQUES ORACLE2020

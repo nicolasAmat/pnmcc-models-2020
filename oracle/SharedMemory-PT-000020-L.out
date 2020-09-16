@@ -1,0 +1,2 @@
+./runatest.sh SharedMemory-PT-000020 Liveness
+FORMULA SharedMemory-PT-000020-Liveness-00 TRUE TECHNIQUES ORACLE2020

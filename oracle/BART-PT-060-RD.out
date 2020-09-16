@@ -1,0 +1,2 @@
+./runatest.sh BART-PT-060 ReachabilityDeadlock
+FORMULA BART-PT-060-ReachabilityDeadlock-00 FALSE TECHNIQUES ORACLE2020

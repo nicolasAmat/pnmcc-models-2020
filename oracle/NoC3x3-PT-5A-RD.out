@@ -1,0 +1,2 @@
+./runatest.sh NoC3x3-PT-5A ReachabilityDeadlock
+FORMULA NoC3x3-PT-5A-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

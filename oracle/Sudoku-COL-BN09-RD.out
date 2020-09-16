@@ -1,0 +1,2 @@
+./runatest.sh Sudoku-COL-BN09 ReachabilityDeadlock
+FORMULA Sudoku-COL-BN09-ReachabilityDeadlock-00 TRUE TECHNIQUES ORACLE2020

@@ -1,0 +1,2 @@
+./runatest.sh GlobalResAllocation-COL-03 StableMarking
+FORMULA GlobalResAllocation-COL-03-StableMarking-00 FALSE TECHNIQUES ORACLE2020
